@@ -1,2 +1,31 @@
-*.md
-!README.md
+docs/
+misc/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Results and data
+results/
+
+# Model cache (large files)
+models/
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
