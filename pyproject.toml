@@ -8,4 +8,10 @@ dependencies = [
   "transformers",
   "huggingface_hub",
   "accelerate",
+  "pandas",
+  "matplotlib",
+  "seaborn",
+  "scipy",
+  "jupyter",
+  "ipykernel>=7.1.0",
 ]
